@@ -1,0 +1,2 @@
+# chatfreept
+ Windows AI Studio
